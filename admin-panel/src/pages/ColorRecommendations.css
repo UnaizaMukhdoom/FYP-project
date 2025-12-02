@@ -1,0 +1,185 @@
+.color-page {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.page-header {
+  margin-bottom: 24px;
+}
+
+.page-header h1 {
+  color: #2c3e50;
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.page-header p {
+  color: #7f8c8d;
+  font-size: 16px;
+}
+
+.refresh-btn {
+  padding: 8px 16px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.refresh-btn:hover {
+  background-color: #2980b9;
+}
+
+.color-content {
+  margin-top: 24px;
+}
+
+.no-data {
+  background: white;
+  border-radius: 12px;
+  padding: 40px;
+  text-align: center;
+  color: #7f8c8d;
+}
+
+.analyses-list {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.analysis-card {
+  background: white;
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.analysis-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+.analysis-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 20px;
+  padding-bottom: 16px;
+  border-bottom: 2px solid #ecf0f1;
+}
+
+.analysis-header h3 {
+  color: #2c3e50;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0 0 4px 0;
+}
+
+.user-email {
+  color: #7f8c8d;
+  font-size: 14px;
+  margin: 0;
+}
+
+.analysis-details {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.detail-section {
+  padding: 16px;
+  background: #f8f9fa;
+  border-radius: 8px;
+  border-left: 4px solid #3498db;
+}
+
+.detail-section h4 {
+  color: #2c3e50;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0 0 12px 0;
+}
+
+.detail-section p {
+  margin: 8px 0;
+  color: #34495e;
+  font-size: 14px;
+}
+
+.detail-section p strong {
+  color: #2c3e50;
+  font-weight: 600;
+}
+
+.color-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 12px 0;
+}
+
+.color-tag {
+  display: inline-block;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 500;
+  white-space: nowrap;
+  transition: transform 0.2s;
+}
+
+.color-tag:hover {
+  transform: scale(1.05);
+}
+
+.color-tag.best {
+  background: linear-gradient(135deg, #4ADE80 0%, #22C55E 100%);
+  color: white;
+  box-shadow: 0 2px 4px rgba(34, 197, 94, 0.3);
+}
+
+.color-tag.avoid {
+  background: linear-gradient(135deg, #F87171 0%, #EF4444 100%);
+  color: white;
+  box-shadow: 0 2px 4px rgba(239, 68, 68, 0.3);
+}
+
+.color-tag.neutral {
+  background: linear-gradient(135deg, #94A3B8 0%, #64748B 100%);
+  color: white;
+  box-shadow: 0 2px 4px rgba(100, 116, 139, 0.3);
+}
+
+.color-count {
+  margin-top: 8px;
+  font-size: 12px;
+  color: #7f8c8d;
+  font-style: italic;
+}
+
+.description-text {
+  color: #34495e;
+  font-size: 14px;
+  line-height: 1.6;
+  margin: 0;
+  padding: 12px;
+  background: white;
+  border-radius: 6px;
+  border: 1px solid #e0e0e0;
+}
+
+.analysis-date {
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px solid #ecf0f1;
+  color: #7f8c8d;
+  font-size: 12px;
+  font-style: italic;
+}
+

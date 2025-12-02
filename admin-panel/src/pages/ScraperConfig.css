@@ -1,0 +1,13 @@
+.scraper-page {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.scraper-content {
+  background: white;
+  border-radius: 12px;
+  padding: 40px;
+  text-align: center;
+  color: #7f8c8d;
+}
+

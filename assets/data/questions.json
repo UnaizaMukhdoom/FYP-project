@@ -1,0 +1,77 @@
+{
+  "questions": {
+    "name": {
+      "id": "name",
+      "order": 1,
+      "title": "Let’s get to know each other! What would you like us to call you?",
+      "type": "text",
+      "required": true,
+      "placeholder": "Your name",
+      "validation": { "minLength": 1, "maxLength": 100 }
+    },
+    "height": {
+      "id": "height",
+      "order": 2,
+      "title": "What's your current height?",
+      "subtitle": "Knowing your measurements helps us suggest personalized outfits just for you!",
+      "type": "number",
+      "required": true,
+      "units": ["cm", "ft"],
+      "defaultUnit": "cm",
+      "range": { "min": 120, "max": 210, "step": 1 },
+      "ui": { "slider": true }
+    },
+    "weight": {
+      "id": "weight",
+      "order": 3,
+      "title": "What's your current weight?",
+      "subtitle": "Knowing your measurements helps us suggest personalized outfits just for you!",
+      "type": "number",
+      "required": true,
+      "units": ["kg", "lb"],
+      "defaultUnit": "kg",
+      "range": { "min": 35, "max": 140, "step": 1 },
+      "ui": { "slider": true }
+    },
+    "body_type": {
+      "id": "body_type",
+      "order": 4,
+      "title": "Which body type best characterizes your shape?",
+      "type": "single_choice",
+      "required": true,
+      "options": ["Hourglass", "Triangle", "Inverted triangle", "Rectangle", "Round"]
+    },
+    "size_range": {
+      "id": "size_range",
+      "order": 5,
+      "title": "Which size range best describes you?",
+      "type": "single_choice",
+      "required": true,
+      "options": ["Regular", "Plus size"]
+    },
+    "fit_prefs": {
+      "id": "fit_prefs",
+      "order": 6,
+      "title": "How do you prefer your clothes to fit?",
+      "subtitle": "Select all options that fit you",
+      "type": "multi_choice",
+      "required": true,
+      "options": ["Fitted", "Loose", "Relaxed", "Tailored"],
+      "minSelections": 1
+    },
+    "style_goal": {
+      "id": "style_goal",
+      "order": 7,
+      "title": "What's your main style goal?",
+      "type": "single_choice",
+      "required": true,
+      "options": [
+        "Learning how to complement my natural features",
+        "Looking chic and fashionable",
+        "Standing out from the crowd",
+        "Shopping smart and buying less"
+      ]
+    }
+  }
+}
+
