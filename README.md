@@ -178,11 +178,41 @@ Logistic Regression was selected as the production intent classifier for its str
 
 ## Screenshots
 
-> _Add screenshots from Chapter 5 of the project report here, e.g.:_
+#Splash Screen
+<img width="467" height="892" alt="image" src="https://github.com/user-attachments/assets/713aef70-d670-4f6b-85e3-cbb7b2448c34" />
+$Sign In
+<img width="508" height="908" alt="image" src="https://github.com/user-attachments/assets/8652694c-a117-4347-b9ce-09290d44ccf3" />
+#Style Questionnaire
+<img width="515" height="908" alt="image" src="https://github.com/user-attachments/assets/dc25930e-255d-4659-a963-75bd5cef69c4" />
+#Core Features
 
-| Splash Screen | Sign In | Style Questionnaire | Home Dashboard |
-|---|---|---|---|
-| ![Splash](docs/screenshots/splash.png) | ![Login](docs/screenshots/login.png) | ![Questionnaire](docs/screenshots/questionnaire.png) | ![Home](docs/screenshots/home.png) |
+#Home Dashboard
+<img width="499" height="888" alt="image" src="https://github.com/user-attachments/assets/e7c515ff-b210-403f-ad09-f67613322400" />
+#Personal Color Result
+<img width="453" height="894" alt="image" src="https://github.com/user-attachments/assets/dc2df7f6-4fcf-415d-b0ba-b2a23b438286" />
+#Profile
+<img width="506" height="893" alt="image" src="https://github.com/user-attachments/assets/7b8a9357-fe5b-4f8a-a469-102ea22211c2" />
+#Wardrobe / Plan Your Outfit
+<img width="484" height="892" alt="image" src="https://github.com/user-attachments/assets/081dfb01-50b8-41ef-97a1-0e0fb1a1eedb" />
+#	Discover (Brand Trends)
+<img width="501" height="892" alt="image" src="https://github.com/user-attachments/assets/d56635b1-17b3-4d83-82cb-77b7b03d5234" />
+#AI Stylist Chatbot
+<img width="512" height="892" alt="image" src="https://github.com/user-attachments/assets/91047de3-8504-4895-9c1d-0073a7a6f2af" />
+
+#Admin panel
+<img width="440" height="233" alt="image" src="https://github.com/user-attachments/assets/974b013e-44a6-4861-937f-1b79ba62c7df" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Getting Started
 
