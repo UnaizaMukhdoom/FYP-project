@@ -314,5 +314,3 @@ vogue-ai/
 This project was developed as a Final Year Project for the Bachelor of Science in Computer Science degree at Bahria University, Lahore Campus.
 
 ---
-
-<p align="center">Made with 💜 by Unaiza Mukhdoom & Mehak — Bahria University, Lahore</p>
