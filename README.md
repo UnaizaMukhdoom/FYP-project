@@ -4,8 +4,6 @@
 
 Vogue AI analyzes your skin tone, undertone, and face shape, then delivers personalized seasonal color palettes, outfit recommendations, jewelry suggestions, and outfit scoring — all through a Flutter mobile app with a bilingual (English / Roman Urdu) AI stylist chatbot.
 
-> Final Year Project — BSCS-S25-004 — Department of Computer Sciences, Bahria University, Lahore Campus
-> Authors: Unaiza Mukhdoom & Mehak · Supervisor: Dr. Junaid Nasir Qureshi
 
 ---
 
